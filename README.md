@@ -10,7 +10,7 @@ It provides two basic abstractions:
 
 ### Up and running
 
-The code has only been tested with SBCL and requires [quicklisp|https://www.quicklisp.org/beta/#installation].
+The code has only been tested with SBCL and requires [quicklisp](https://www.quicklisp.org/beta/#installation).
 There is no documentation other than the code and since the project is quite dated I will probably also not 
 add it. Think of it as a library that provides the building blocks for bot. If your can work with common lisp
 the code should be fairly self explenatory though.
