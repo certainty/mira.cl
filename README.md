@@ -1,4 +1,4 @@
-# Mira.cl is a module bot framework in Common Lisp
+# Mira.cl is a modular bot framework in Common Lisp
 
 The project is an old common lisp project of mine that implements
 a framework to build chat bots, most notably irc bots.
